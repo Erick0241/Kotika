@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+*body {
+
+  font-family: 'PT Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+    background-color: #F5F5F5;
+  }
+
+
+  /*  cambie el header 
+header {
+
+
+  HEADER ORIGINAL 
+
+************
+
+
+    background-color: #3399CC;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+
+  */
+  
+
+
+
+  
+nav {
+    background-color: #3399CC;
+    color: red;
+    text-align: right;
+    padding: 0px;
+  }
+  
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 100px;
+  }
+  
+section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  
+h2 {
+    color: #3399CC;
+  }
+  
+li {
+    list-style-type: none;
+    padding: 20px;
+    margin: 20px;
+    background-color: #F5F5F5;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  }
+  
+p {
+    font-size: 14px;
+    color: #333333;
+  }
